@@ -30,62 +30,22 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 
 ## 💻 Tech Stack
 
-### 💻 Programming
-- Python  
-- Java  
-- C++  
-- C  
-- Object-Oriented Programming (OOP)  
+**Programming:**  
+Python • Java • C++ • OOP  
 
----
+**AI / ML:**  
+LangChain • Transformers • PyTorch • Scikit-learn  
+LLMs • RAG • Vector Search • Embeddings • NLP  
 
-### 🧠 AI / ML
-- LangChain  
-- LangGraph  
-- Transformers  
-- PyTorch  
-- TensorFlow  
-- Scikit-learn  
-- LLM-based systems  
-- NLP  
-- RAG pipelines  
-- Vector Search  
-- Embeddings  
-- Prompt Engineering  
+**Backend:**  
+FastAPI • REST APIs • Microservices • Pydantic • Uvicorn  
 
----
+**Databases:**  
+PostgreSQL • MongoDB • MySQL • SQLite • Qdrant  
 
-### ⚙️ Backend & APIs
-- FastAPI  
-- REST APIs  
-- Microservices Architecture  
-- Uvicorn  
-- Pydantic  
-- Swagger   
+**Data & Tools:**  
+Pandas • NumPy • Matplotlib • Git • Jupyter  
 
----
-
-
----
-
-### 🗄️ Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-- SQLite  
-- Qdrant (Vector Database)  
-
----
-
-### 📊 Data & Tools
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook  
-- Git & GitHub  
-- Vercel   
-- Canva  
 
 
 
