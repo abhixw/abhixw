@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhixw&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhixw&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhixw&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true" />
 
 <img src="https://streak-stats.demolab.com?user=abhixw&theme=tokyonight" />
 
@@ -20,10 +22,6 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/7GM6BnwUWi?theme=dark&font=Baloo&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
 
 </div>
-
----
-
-
