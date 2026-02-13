@@ -1,7 +1,7 @@
 <h1 align="center">Abhinav Shrimali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI-focused+Developer;Generative+AI+Systems;LLM+Orchestration+%26+RAG+Pipelines;Backend+Engineering+with+FastAPI+%26+Django" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI-focused+Developer;Generative+AI+Systems;LLM+Orchestration+%26+RAG+Pipelines;Backend+Engineering+with+FastAPI" />
 </p>
 
 
