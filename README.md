@@ -11,10 +11,22 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-AI-focused developer specializing in Generative AI systems, LLM orchestration, and backend engineering.
-Experienced in building RAG pipelines, adaptive AI workflows, and scalable REST APIs using FastAPI. Strong foundation in data structures, algorithms, and system-level thinking.
+🎓 I’m a Computer Science and Design student (Batch of 2027) at Dayananda Sagar College of Engineering, with a strong interest in Artificial Intelligence and secure system design.
+
+🤖 AI-focused developer specializing in Generative AI systems, LLM orchestration, and backend engineering. Experienced in building RAG pipelines, adaptive AI workflows, and scalable REST APIs using FastAPI.
+
+⚙️ I design backend systems that are modular, scalable, and production-ready, with emphasis on clean architecture and system-level thinking.
+
+🧠 Strong foundation in Data Structures & Algorithms, performance optimization, and problem-solving.
+
+🌱 Currently focused on:
+- Advanced RAG architectures  
+- LLM application development  
+- Backend system design  
+- Strengthening DSA and algorithmic thinking  
+
 
 ---
 
