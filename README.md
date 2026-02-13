@@ -21,32 +21,6 @@ Passionate about leveraging cutting-edge AI technologies to build intelligent sy
 
 ---
 
-## Core Focus Areas
-
-### 🤖 Generative AI
-- LLM orchestration  
-- RAG pipelines  
-- Vector search systems  
-- Embedding workflows  
-- Prompt engineering  
-- Adaptive AI pipelines  
-
-### ⚡ Backend Engineering
-- FastAPI & Django applications  
-- REST API design  
-- Microservices architecture  
-- Production-ready backend systems  
-- API validation using Pydantic  
-- ASGI deployment with Uvicorn  
-
-### 🧠 Problem Solving
-- Strong DSA foundation  
-- Algorithmic thinking  
-- System-level design reasoning  
-- Performance-focused implementation  
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
