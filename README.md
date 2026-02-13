@@ -71,8 +71,8 @@ Pandas • NumPy • Matplotlib • Git • Jupyter
 
 <div align="center">
 
-<a href="https://leetcode.com/abhixw">
-<img src="https://leetcard.jacoblin.cool/abhixw?theme=dark&font=Baloo&ext=heatmap" />
+<a href="https://leetcode.com/7GM6BnwUWi">
+<img src="https://leetcard.jacoblin.cool/7GM6BnwUWi?theme=dark&font=Baloo&ext=heatmap" />
 </a>
 
 </div>
