@@ -46,26 +46,29 @@ PostgreSQL • MongoDB • MySQL • SQLite • Qdrant
 **Data & Tools:**  
 Pandas • NumPy • Matplotlib • Git • Jupyter  
 
+## 🌐 Portfolio
 
+<div align="center">
 
+[Visit My Portfolio →](https://portfolio-abhixw.vercel.app)
+
+</div>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-
-
-
-
 <img src="https://streak-stats.demolab.com?user=abhixw&theme=tokyonight" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhixw&theme=tokyo-night" />
 
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhixw&theme=tokyonight" />
 
+</div>
 
 ## 📊 Leetcode Analysis
+
+<div align="center">
 
 <img src="https://leetcard.jacoblin.cool/7GM6BnwUWi?theme=dark&font=Baloo&ext=heatmap" />
 
