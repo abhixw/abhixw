@@ -1,7 +1,9 @@
 <h1 align="center">Abhinav Shrimali</h1>
+
 <p align="center">
-AI-focused Developer • Generative AI Systems • Backend Engineering
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI-focused+Developer;Generative+AI+Systems;LLM+Orchestration+%26+RAG+Pipelines;Backend+Engineering+with+FastAPI+%26+Django" />
 </p>
+
 
 <p align="center">
 Building intelligent systems using LLMs, RAG pipelines, and scalable backend architectures.
