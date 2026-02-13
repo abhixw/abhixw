@@ -7,6 +7,7 @@
 
 <p align="center">
 Building intelligent systems using LLMs, RAG pipelines, and scalable backend architectures.
+
 </p>
 
 ---
@@ -70,6 +71,8 @@ Pandas • NumPy • Matplotlib • Git • Jupyter
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/7GM6BnwUWi?theme=dark&font=Baloo&ext=heatmap" />
+<a href="https://leetcode.com/abhixw">
+<img src="https://leetcard.jacoblin.cool/abhixw?theme=dark&font=Baloo&ext=heatmap" />
+</a>
 
 </div>
