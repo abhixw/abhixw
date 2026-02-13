@@ -19,6 +19,94 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 
 
 ---
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 💻 Programming
+- Python  
+- Java  
+- C++  
+- C  
+- Object-Oriented Programming (OOP)  
+
+---
+
+### 🧠 AI / ML
+- LangChain  
+- LangGraph  
+- Transformers  
+- PyTorch  
+- TensorFlow  
+- Scikit-learn  
+- LLM-based systems  
+- NLP  
+- RAG pipelines  
+- Vector Search  
+- Embeddings  
+- Prompt Engineering  
+
+---
+
+### ⚙️ Backend & APIs
+- FastAPI  
+- Django  
+- Spring  
+- Node.js  
+- Express.js  
+- REST APIs  
+- Microservices Architecture  
+- Uvicorn  
+- Pydantic  
+- Swagger  
+- Postman  
+
+---
+
+### 🌐 Frontend
+- React  
+- Next.js  
+- Redux  
+- React Router  
+- React Hook Form  
+- Vite  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- Bootstrap  
+- Thymeleaf  
+
+---
+
+### 🗄️ Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- SQLite  
+- Firebase  
+- Qdrant (Vector Database)  
+
+---
+
+### 📊 Data & Tools
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+- Git & GitHub  
+- Vercel  
+- Nodemon  
+- Canva  
+
+
 
 ## 📊 GitHub Activity
 
