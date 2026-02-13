@@ -17,16 +17,6 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 
 🤖 AI-focused developer specializing in Generative AI systems, LLM orchestration, and backend engineering. Experienced in building RAG pipelines, adaptive AI workflows, and scalable REST APIs using FastAPI.
 
-⚙️ I design backend systems that are modular, scalable, and production-ready, with emphasis on clean architecture and system-level thinking.
-
-🧠 Strong foundation in Data Structures & Algorithms, performance optimization, and problem-solving.
-
-🌱 Currently focused on:
-- Advanced RAG architectures  
-- LLM application development  
-- Backend system design  
-- Strengthening DSA and algorithmic thinking  
-
 
 ---
 
