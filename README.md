@@ -15,7 +15,7 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 
 AI-focused developer specializing in Generative AI systems, LLM orchestration, and backend engineering.
 
-Experienced in building RAG pipelines, adaptive AI workflows, and scalable REST APIs using FastAPI and Django. Strong foundation in data structures, algorithms, and system-level thinking.
+Experienced in building RAG pipelines, adaptive AI workflows, and scalable REST APIs using FastAPI. Strong foundation in data structures, algorithms, and system-level thinking.
 
 Passionate about leveraging cutting-edge AI technologies to build intelligent systems that solve real-world problems. Currently focused on GenAI systems, LLM applications, and modern backend architectures.
 
