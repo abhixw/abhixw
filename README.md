@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhixw&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhixw&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" />
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhixw&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true" />
 
