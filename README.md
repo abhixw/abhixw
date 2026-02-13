@@ -22,8 +22,8 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-shrimali-ab63672a1/">LinkedIn</a> •
+  <a href="mailto:abhinavshrimali03@gmail.com">Email</a>
 </p>
 
 ---
