@@ -57,31 +57,14 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 
 ### ⚙️ Backend & APIs
 - FastAPI  
-- Django  
-- Spring  
-- Node.js  
-- Express.js  
 - REST APIs  
 - Microservices Architecture  
 - Uvicorn  
 - Pydantic  
-- Swagger  
-- Postman  
+- Swagger   
 
 ---
 
-### 🌐 Frontend
-- React  
-- Next.js  
-- Redux  
-- React Router  
-- React Hook Form  
-- Vite  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- Bootstrap  
-- Thymeleaf  
 
 ---
 
@@ -90,7 +73,6 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 - MySQL  
 - MongoDB  
 - SQLite  
-- Firebase  
 - Qdrant (Vector Database)  
 
 ---
@@ -102,8 +84,7 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 - Seaborn  
 - Jupyter Notebook  
 - Git & GitHub  
-- Vercel  
-- Nodemon  
+- Vercel   
 - Canva  
 
 
