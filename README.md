@@ -17,8 +17,6 @@ AI-focused developer specializing in Generative AI systems, LLM orchestration, a
 
 Experienced in building RAG pipelines, adaptive AI workflows, and scalable REST APIs using FastAPI. Strong foundation in data structures, algorithms, and system-level thinking.
 
-Passionate about leveraging cutting-edge AI technologies to build intelligent systems that solve real-world problems. Currently focused on GenAI systems, LLM applications, and modern backend architectures.
-
 ---
 
 ## 📊 GitHub Activity
