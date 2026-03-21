@@ -54,7 +54,7 @@ Git • Pandas • NumPy • Matplotlib • Jupyter
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhixw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixw&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 
 </div>
 
@@ -65,16 +65,6 @@ Git • Pandas • NumPy • Matplotlib • Jupyter
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=abhixw&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhixw&theme=tokyo-night&hide_border=true" />
 
 </div>
 
