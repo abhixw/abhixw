@@ -12,9 +12,7 @@ Building intelligent systems using LLMs, RAG pipelines, and scalable backend arc
 
 ## 🧠 About Me
 
-🎓 Computer Science & Design student (Batch of 2027) at Dayananda Sagar College of Engineering  
-🤖 Focused on Generative AI, LLM orchestration, and backend systems  
-⚙️ Building RAG pipelines, adaptive AI workflows, and production-ready APIs  
+Computer Science and Design undergraduate with experience in Generative AI, RAG systems, and Full Stack Development. Skilled in FastAPI, React, LangGraph, and Large Language Models. Currently working as a Generative AI & Full Stack Development Intern. 
 
 ---
 
