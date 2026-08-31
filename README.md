@@ -1,18 +1,18 @@
 <h1 align="center">Abhinav Shrimali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI-focused+Developer;Generative+AI+Systems;LLM+Orchestration+%26+RAG+Pipelines;Backend+Engineering+with+FastAPI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Backend+%26+Full+Stack+Developer;AI+Agents+%26+Multi-Agent+Systems;Async+Systems+with+FastAPI+%26+TaskIQ;LLM+Orchestration+%26+RAG+Pipelines" />
 </p>
 
 <p align="center">
-Building intelligent systems using LLMs, RAG pipelines, and scalable backend architectures.
+Building scalable APIs, asynchronous systems, and AI-powered applications with Python, FastAPI, React, PostgreSQL, Redis, and Docker.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Computer Science and Design undergraduate with experience in Generative AI, RAG systems, and Full Stack Development. Skilled in FastAPI, React, LangGraph, and Large Language Models. Currently working as a Generative AI & Full Stack Development Intern. 
+Computer Science and Design undergraduate at Dayananda Sagar College of Engineering (CGPA: 8.97/10.0), focused on backend and full-stack development. Experienced in building scalable APIs, asynchronous task processing, authentication systems, and AI-powered applications. Currently exploring AI agents, multi-agent workflows, and LLM orchestration with LangChain and LangGraph.
 
 ---
 
@@ -28,21 +28,24 @@ Computer Science and Design undergraduate with experience in Generative AI, RAG 
 
 ## ⚙️ Tech Stack
 
-**Languages:**  
-Python • Java • C++  
+**Languages:**
+Python • Java • C++
 
-**AI / ML:**  
-LangChain • Transformers • PyTorch • Scikit-learn  
-LLMs • RAG • Vector Search • Embeddings • NLP  
+**AI / ML:**
+LangChain • LangGraph • Agentic AI • RAG • MCP • Transformers • PyTorch • Scikit-learn
+LLMs • Vector Search • Embeddings • NLP
 
-**Backend:**  
-FastAPI • REST APIs • Microservices • Pydantic • Uvicorn  
+**Backend:**
+FastAPI • REST APIs • Authentication • Asynchronous Processing • Microservices • Pydantic • Uvicorn • TaskIQ
 
-**Databases:**  
-PostgreSQL • MongoDB • MySQL • SQLite • Qdrant  
+**Frontend:**
+React
 
-**Tools:**  
-Git • Pandas • NumPy • Matplotlib • Jupyter  
+**Databases:**
+PostgreSQL • MongoDB • MySQL • SQLite • Redis • Qdrant
+
+**DevOps & Tools:**
+Docker • Git • GitHub • Pandas • NumPy • Matplotlib • Jupyter
 
 ---
 
@@ -51,8 +54,7 @@ Git • Pandas • NumPy • Matplotlib • Jupyter
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhixw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixw&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -63,6 +65,16 @@ Git • Pandas • NumPy • Matplotlib • Jupyter
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=abhixw&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhixw&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -80,15 +92,15 @@ Git • Pandas • NumPy • Matplotlib • Jupyter
 
 ---
 
-## ⚡ What I’m Focused On
+## ⚡ What I'm Focused On
 
-- Building scalable AI systems using LLMs  
-- Designing efficient RAG pipelines  
-- Backend engineering with FastAPI  
-- Improving system performance and security  
+- Building AI agents and multi-agent workflows
+- Designing efficient RAG pipelines
+- Backend engineering with FastAPI and asynchronous systems
+- Improving system performance and security
 
 ---
 
 ## 📌 Quote
 
-> “Consistency in building > intensity in bursts.”
+> "Consistency in building > intensity in bursts."
