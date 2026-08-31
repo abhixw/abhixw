@@ -29,7 +29,7 @@ Computer Science and Design undergraduate at Dayananda Sagar College of Engineer
 ## ⚙️ Tech Stack
 
 **Languages:**
-Python • Java • C++
+Python • Java 
 
 **AI / ML:**
 LangChain • LangGraph • Agentic AI • RAG • MCP • Transformers • PyTorch • Scikit-learn
@@ -47,8 +47,6 @@ PostgreSQL • MongoDB • MySQL • SQLite • Redis • Qdrant
 **DevOps & Tools:**
 Docker • Git • GitHub • Pandas • NumPy • Matplotlib • Jupyter
 
-
-
 ---
 
 ## 🔥 Contribution Streak
@@ -60,8 +58,6 @@ Docker • Git • GitHub • Pandas • NumPy • Matplotlib • Jupyter
 </div>
 
 ---
-
-
 
 ## 🧩 Problem Solving
 
