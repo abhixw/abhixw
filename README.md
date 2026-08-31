@@ -21,7 +21,7 @@ Computer Science and Design undergraduate at Dayananda Sagar College of Engineer
 <p align="center">
   <a href="https://linkedin.com/in/abhinav-shrimali-ab63672a1/">LinkedIn</a> •
   <a href="mailto:abhinavshrimali03@gmail.com">Email</a> •
-  <a href="https://portfolio-abhixw.vercel.app">Portfolio</a>
+  <a href="https://portfolio-abhixw-5f30szq8q-abhixws-projects.vercel.app/">Portfolio</a>
 </p>
 
 ---
