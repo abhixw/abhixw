@@ -47,16 +47,7 @@ PostgreSQL • MongoDB • MySQL • SQLite • Redis • Qdrant
 **DevOps & Tools:**
 Docker • Git • GitHub • Pandas • NumPy • Matplotlib • Jupyter
 
----
 
-## 🚀 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhixw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixw&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
@@ -70,15 +61,7 @@ Docker • Git • GitHub • Pandas • NumPy • Matplotlib • Jupyter
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhixw&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ## 🧩 Problem Solving
 
