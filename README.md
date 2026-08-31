@@ -29,23 +29,19 @@ Computer Science and Design undergraduate at Dayananda Sagar College of Engineer
 ## ⚙️ Tech Stack
 
 **Languages:**
-Python • Java 
+Python • Java
 
 **AI / ML:**
-LangChain • LangGraph • Agentic AI • RAG • MCP • Transformers • PyTorch • Scikit-learn
-LLMs • Vector Search • Embeddings • NLP
+Generative AI • Agentic AI • RAG • MCP • LLMs • LangChain • LangGraph • Scikit-learn • NumPy • Pandas
 
-**Backend:**
-FastAPI • REST APIs • Authentication • Asynchronous Processing • Microservices • Pydantic • Uvicorn • TaskIQ
-
-**Frontend:**
-React
+**Full Stack:**
+FastAPI • React • REST APIs • Microservices • Keycloak
 
 **Databases:**
-PostgreSQL • MongoDB • MySQL • SQLite • Redis • Qdrant
+PostgreSQL • MySQL • MongoDB • Redis • Qdrant
 
-**DevOps & Tools:**
-Docker • Git • GitHub • Pandas • NumPy • Matplotlib • Jupyter
+**Dev Tools:**
+Docker • Git • GitHub
 
 ---
 
